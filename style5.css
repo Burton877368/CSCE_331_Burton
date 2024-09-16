@@ -1,0 +1,35 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+.topnav ul {
+    text-align: right;
+    margin-right: 20px;
+}
+.topnav li {
+    display: inline;
+    margin-left: 15px;
+}
+.topnav a:link, a:visited {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
+.topnav a:hover, a:active {
+    text-decoration: underline;
+}
+* {
+    font: georgia;
+}
+body { 
+	font: georgia;
+	line-height: 1.88889; 
+	margin: 0; 
+	padding: 0;
+}
+.title {
+    background-color: #e9f2f5ff;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
